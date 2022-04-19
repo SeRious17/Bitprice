@@ -1,2 +1,2 @@
 # Bitprice
-A very interactive website where all the price of all crypto coin will be shown 
+A very interactive website where the price of all crypto coin will be shown 
